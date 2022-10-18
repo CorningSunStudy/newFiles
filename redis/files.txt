@@ -1,0 +1,16 @@
+00-课程介绍
+01-NoSQL的概述
+02-Redis的概述
+03-Redis的安装
+04-Jedis的入门
+05-Redis的数据结构之字符串
+06-Redis的数据结构之哈希
+07-Redis的数据结构之list
+08-Redis的数据结构之set
+09-Redis的数据结构之sorte
+10-Redis的Keys的通用操作
+11-Redis的特性
+12-Redis的持久化的概述
+13-Redis的持久化的RDB的方式
+14-Redis的持久化的AOF的方式
+15-Redis的课程总结
